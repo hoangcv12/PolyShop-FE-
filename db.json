@@ -1,0 +1,144 @@
+{
+  "products": [
+    {
+      "id": "yfjpkg",
+      "name": "Iphone 12",
+      "price": "161",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "bcbam",
+      "name": "Iphone 11 Pro",
+      "price": "120",
+      "status": "false",
+      "idcate": "1"
+    },
+    {
+      "id": "gqu9ud",
+      "name": "Apple watch",
+      "price": "100",
+      "idcate": "3",
+      "status": "true"
+    },
+    {
+      "id": "x9m1dd",
+      "name": "Macbook Pro",
+      "price": "299",
+      "status": "true",
+      "idcate": "2"
+    },
+    {
+      "id": "x6bmmq",
+      "name": "Asus Vivobook",
+      "price": "170",
+      "idcate": "2",
+      "status": "true"
+    },
+    {
+      "id": "2ouuqw",
+      "name": "Casio",
+      "price": "413",
+      "idcate": "3",
+      "status": "true"
+    },
+    {
+      "id": "arc9d",
+      "name": "Dell",
+      "price": "192",
+      "idcate": "2",
+      "status": "true"
+    },
+    {
+      "id": "si6cge",
+      "name": "Iphone 14",
+      "price": "476",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "ehc1ep",
+      "name": "Iphone 16",
+      "price": "200",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "m3ki3b",
+      "name": "Iphone 8",
+      "price": "476",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "9vwwgm",
+      "name": "Iphone 19",
+      "price": "150",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "2st6y2",
+      "name": "Iphone 20",
+      "price": "295",
+      "status": "false",
+      "idcate": "1"
+    },
+    {
+      "id": "ir3nmy",
+      "name": "Iphone 21",
+      "price": "140",
+      "status": "true",
+      "idcate": "1"
+    },
+    {
+      "id": "a30k6",
+      "name": "Lenovo",
+      "price": "121",
+      "idcate": "2",
+      "status": "true"
+    },
+    {
+      "id": "hj8qh",
+      "name": "Apple watch 12",
+      "price": "252",
+      "idcate": "3",
+      "status": "true"
+    },
+    {
+      "id": "dp4lql",
+      "name": "Iphone 25",
+      "price": "476576",
+      "idcate": "1",
+      "status": "true"
+    }
+  ],
+  "categorys": [
+    {
+      "name": "Điện thoại",
+      "id": "1"
+    },
+    {
+      "name": "Laptop",
+      "id": "2"
+    },
+    {
+      "name": "Đồng hồ",
+      "id": "3"
+    }
+  ],
+  "users": [
+    {
+      "email": "caoviethoang121201@gmail.com",
+      "password": "$2a$10$lCkTNUsUouwH3mCSRaNx2.aJqNzANPZgVppGsum1HEzSTuVnLtoHS",
+      "username": "hoangcv",
+      "id": 1
+    },
+    {
+      "email": "caoviethoang222@gmail.com",
+      "password": "$2a$10$v6YQc./GSXY7KWjItSepm.sFczra7tPqP1qnFp1DxA/lYvST9XUk.",
+      "username": "hoangcv12",
+      "id": 2
+    }
+  ]
+}
